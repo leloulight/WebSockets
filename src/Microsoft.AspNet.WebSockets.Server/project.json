@@ -17,7 +17,11 @@
     "net451": {},
     "dotnet5.4": {
       "dependencies": {
+<<<<<<< HEAD
         "System.Runtime": "4.0.21-beta-23516"
+=======
+        "System.Runtime": "4.0.21-*"
+>>>>>>> refs/remotes/aspnet/dev
       }
     }
   }
